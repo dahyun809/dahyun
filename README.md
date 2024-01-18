@@ -27,7 +27,7 @@ alt="ZFRczARq0rveukDU" width="240" height="180" border="10" /></a>
 
 **Tea** 🍵
 > One of the teas I enjoy is barley tea[^3] (bori cha) and you can replace water with this tea.
-[^3]: Easy recipe for how to make barley tea (bori cha) [https://www.foodiebaker.com/roasted-barley-tea/]
+[^3]: Easy recipe for [how to make barley tea](https://www.foodiebaker.com/roasted-barley-tea/) (bori cha)
 
 
 
